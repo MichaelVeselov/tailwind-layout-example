@@ -4,4 +4,4 @@
 
 ### App Project, using Tailwind CSS
 
-![PageLayout](screenshot/chess.png 'PageLayout')
+![PageLayout](screenshot/pagelayout.png 'PageLayout')
